@@ -1199,7 +1199,7 @@ section .container {
 /*margin-top: 40px;*/
 .mybtn a {
   margin: 10px;
-  padding: 5px;
+  padding: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
