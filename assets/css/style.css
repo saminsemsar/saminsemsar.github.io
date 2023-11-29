@@ -1198,9 +1198,11 @@ section .container {
 }
 /*margin-top: 40px;*/
 .mybtn a {
+  margin: 3px;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 10%;
   background: rgba(255, 255, 255, 0.1);
   color: #fff;
 }
