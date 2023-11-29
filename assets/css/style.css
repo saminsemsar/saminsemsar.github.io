@@ -1193,7 +1193,7 @@ section .container {
 # Buttons in this template
 --------------------------------------------------------------*/
 .mybtn {
-  
+  margin-left: 10px;
   display: flex;
 }
 /*margin-top: 40px;*/
